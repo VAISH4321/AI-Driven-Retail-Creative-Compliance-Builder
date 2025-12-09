@@ -100,5 +100,3 @@ retail-creative-builder/
 * Advanced React-based drag-and-drop creative builder frontend
 
 
-
-Would you like me to write a **short GitHub project description and tags** (e.g., “AI-powered creative generation and compliance engine built with FastAPI”) to add below your repository title?
